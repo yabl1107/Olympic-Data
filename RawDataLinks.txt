@@ -1,0 +1,5 @@
+https://github.com/yabl1107/Olympic-Data/raw/refs/heads/main/data/Athletes.csv
+https://github.com/yabl1107/Olympic-Data/raw/refs/heads/main/data/Coaches.csv
+https://github.com/yabl1107/Olympic-Data/raw/refs/heads/main/data/EntriesGender.csv
+https://github.com/yabl1107/Olympic-Data/raw/refs/heads/main/data/Medals.csv
+https://github.com/yabl1107/Olympic-Data/raw/refs/heads/main/data/Teams.csv
